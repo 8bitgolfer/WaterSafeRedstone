@@ -1,0 +1,4 @@
+name: WaterSafeRedstone
+main: me.yourname.watersaferedstone.WaterSafeRedstone
+version: 1.0
+api-version: 1.8.8
